@@ -1,6 +1,8 @@
 Coinbase Balance Checker
 ========================
 
+![](https://img.shields.io/badge/language-Powershell-blue.svg) ![](https://img.shields.io/badge/buld-passing-brightgreen.svg)
+
 The current version of Coinbase Balance Checker is **3.0**
 
 Retrieve current price and wallet amount of cryptocurrencies from Coinbase account and coinbase API.
