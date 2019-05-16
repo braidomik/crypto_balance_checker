@@ -22,7 +22,7 @@ From a GIT repository:
 
 After download:
 
-* Run .\crypto_balance_checker.ps1 -api_key 1234567890abcdef -secret_key 1234567890abcdefghijklmnopqrstuv -basecurrency EUR -cryptos "BTC", "ETH", "LTC", "BCH"
+* Run `.\crypto_balance_checker.ps1 -api_key 1234567890abcdef -secret_key 1234567890abcdefghijklmnopqrstuv -basecurrency EUR -cryptos "BTC", "ETH", "LTC", "BCH"`
 
 Configuration
 -------------
